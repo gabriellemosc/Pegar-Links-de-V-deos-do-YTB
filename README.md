@@ -1,0 +1,3 @@
+- Primeiro voce irá precisar ter um arquivo já composto em CSV, dos links dos canais que serão ser feitos a verificação
+- Após isso, o programa irá pedir para você mostrar onde o arquivo está para ser mapeado
+- Ao fim do programa, será criado um novo arquivo pelo programa, com os links de todos os vídeos dos canais selecionados
